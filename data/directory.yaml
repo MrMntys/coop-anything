@@ -1411,8 +1411,9 @@
   notes: Development build on the MafiaHub Framework with no releases, so players build it from source. Supports only
     the Steam Game.exe (SHA-256 303eb95e...f298). Server-owned player and car replicas, server-chosen mission
     loading, chat and doors (per its sample Free Ride guide). Mission actors are suppressed, so this is free roam
-    and game modes, not the campaign. The authors ship a two-client Wine smoke test (not run by us). MafiaHub OSS
-    license: derivatives only as contributions to the original work; personal use needs written permission.
+    and game modes, not the campaign. The authors ship a two-client Wine smoke test (not run by us). The MafiaHub
+    OSS license allows derivatives only as contributions to the original work, and personal use needs written
+    permission.
   sources:
   - https://github.com/MafiaHub/MafiaOnline
   - https://github.com/MafiaHub/MafiaOnline/blob/main/LICENSE.txt
